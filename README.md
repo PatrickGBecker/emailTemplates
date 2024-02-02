@@ -6,13 +6,13 @@
 </div>
 
 ### Languages Used
-<div>
+<div align="center">
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 
 ### Tools
-<div>
+<div align="center">
   <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
   
