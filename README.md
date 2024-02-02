@@ -1,8 +1,8 @@
 <h1 align="center">HOOVZ Email Newsletter Template</h1>
-<h3 align="center">This email template showcasing a comprehensive understanding of responsive email design, effective branding, and a unique voice that subscribers will recognize and trust.</h3>
+<h3 align="center">This email template showcases a comprehensive understanding of responsive email design, effective branding, and a unique voice that subscribers will recognize and trust.</h3>
 
 <div align="center">
-  <img src="https://i.ibb.co/sHVNY25/Screenshot-2024-02-02-at-1-06-16-PM.png" alt="a logo of a shoe in a fiery circle and a pair of crossed legs wearing stylish shoes" border="0" style="border-radius: 10px;">
+  <img src="https://i.ibb.co/sHVNY25/Screenshot-2024-02-02-at-1-06-16-PM.png" alt="logo of a shoe in a fiery circle. Photo of crossed legs in jeans with stylish shoes" border="0" style="border-radius: 10px;">
 </div>
 
 ### Languages Used
